@@ -1,6 +1,6 @@
 #include<iostream>
 int main()
 {
-cout<<"master b";
-cout<<"Added using branch first";
+cout<<"master branch";
+cout<<"Added using branch b2 note";
 }
